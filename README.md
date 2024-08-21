@@ -80,17 +80,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 *Command line-based applications or command line access to existing services.*
 
 - [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
-- [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
-- [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
-- [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
-
-## Games
-
-*All work and no play is a cruddy way to spend your day.*
-
-- [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
-- [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
-- [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash.
 
 ## Website
 
