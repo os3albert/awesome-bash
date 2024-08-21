@@ -50,18 +50,8 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
-- [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
-- [bashhub](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
-- [bashhub-server](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
-- [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
-- [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
-- [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
-- [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
-- [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
-- [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
-- [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 - [devtodo](https://swapoff.org/devtodo.html) - DevTodo is a small command line application for maintaining lists of tasks. It stores tasks hierarchically, with each task given one of five priority levels. Data is stored as JSON.
 
