@@ -9,7 +9,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Books and Resources](#books-and-resources)
 - [Command-Line Productivity](#command-line-productivity)
 - [Customization](#customization)
-- [Data](#data)
 - [For Developers](#for-developers)
 - [Downloading and Serving](#downloading-and-serving)
 - [Applications](#applications)
@@ -59,10 +58,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
 
-## Data
-
-*Tools for working with data.*
-
 ## For Developers
 
 *Command-line development, version control, and deployment.*
@@ -83,7 +78,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Website
 
-- [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
 - [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
 
 ## Shell Package Management
@@ -91,17 +85,12 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 *Tools for managing multiple shell configurations.*
 
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-- [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 
 ## Shell Script Development
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
-- [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
-- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-- [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 - [async-bash](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 - [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
@@ -111,20 +100,11 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
 - [bashmanager](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
 - [Bashmatic](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
-- [bunit](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
 - [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
-- [bash-modules](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 - [bash_unit](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-- [bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
-- [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
-- [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 - [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
 - [shfmt](https://github.com/mvdan/sh) - Format bash programs.
-- [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
-- [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
-- [modernish](https://github.com/modernish/modernish) - Library with various features for shell scripting.
-- [json.bash](https://github.com/h4l/json.bash) - Bash library and command-line tool that creates JSON.
 
 ## Just for fun
 
