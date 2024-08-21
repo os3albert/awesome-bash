@@ -50,8 +50,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
-- [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
-- [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 - [devtodo](https://swapoff.org/devtodo.html) - DevTodo is a small command line application for maintaining lists of tasks. It stores tasks hierarchically, with each task given one of five priority levels. Data is stored as JSON.
 
